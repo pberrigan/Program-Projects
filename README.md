@@ -1,2 +1,2 @@
 # Program-Projects
-School/Personal Learning Projects
+Intro Logic C++ Class Projects
